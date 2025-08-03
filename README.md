@@ -19,3 +19,12 @@ Key features include:
 - Continuous learning from meal history and preferences
 
 This system is designed not only to assist the elderly in making better meal choices, but also to reduce the burden on caregivers, enabling sustainable and inclusive food service in aged care environments.
+
+
+****<img width="1742" height="995" alt="image" src="https://github.com/user-attachments/assets/f8df8a6c-6cbb-4e62-ae93-2a1a56be2fcc" />
+
+
+
+
+
+
