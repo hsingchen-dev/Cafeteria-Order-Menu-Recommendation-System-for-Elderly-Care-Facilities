@@ -45,6 +45,20 @@ This modular Agent is designed for extensibility and can be customized to differ
 
 This system provides a smart, voice-driven meal ordering experience for elderly users in care facilities. It integrates QR-based health data access, multilingual voice input, LLM-based natural language understanding, and menu filtering logic to recommend safe and personalized dishes.
 
+# Team
+This project is organized by an interdisciplinary team of doctoral and master's students, with each member contributing based on their respective areas of expertise.
+
+- **Fuzuki Tasaka (Project Lead)** – Oversees overall project direction, system implementation, and agent behavior evaluation.  
+  Acts as a bridge between development and real-world deployment by conducting usability testing and improving prototypes. Also contributes directly to coding and practical integration.  
+  *Kobe University*
+
+- **Hang Xingchen** – Responsible for system architecture design, including the integration of LLMs, robotic control, and multimodal coordination (vision, voice, behavior).  
+  *Kobe University*
+
+- **Haruki Maruyama** – In charge of prompt engineering and market research. Optimizes dialogue flow in Japanese and ensures the system aligns with user needs and social context.  
+  *The University of Tokyo*
+
+
 ### 🧠 Step-by-Step Process
 
 **Step 1: Scan QR Code**  
@@ -78,8 +92,17 @@ This six-step cycle enables personalized, safe, and efficient meal selection for
 <img width="1742" height="992" alt="image" src="https://github.com/user-attachments/assets/03de1cf5-5167-4ba3-a8df-ca5a319b0c9f" />
 
 ## Demo Video
-
+## Demo Video SKYNET-First-Generation Agent – Menu Recommendation System for General Restaurants
 The following demo video showcases the **first-generation prototype** of our AI-powered meal ordering system. This version is designed for use in **general restaurants**, enabling users to interact with the menu via natural spoken language.
 https://www.youtube.com/shorts/mqymFhW0tDY
+
+The video showcases the lower-level control system linked with the ordering agent. By leveraging control technologies based on large language models, the agent can understand the user’s mood and respond with appropriate actions or expressions, enabling more natural and human-like interaction.
+https://www.youtube.com/watch?v=IZ2gPEjCfZQ
+
+
+## Demo Video SKYNET-Second-Generation Menu Recommendation Agent for Elderly Facilities
+
+
+
 
 
