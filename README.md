@@ -41,7 +41,37 @@ At the heart of this system is an intelligent Agent that drives the voice-based 
 
 This modular Agent is designed for extensibility and can be customized to different care facilities or integrated into tablet/robotic environments.
 
+# System Overview
 
+This system provides a smart, voice-driven meal ordering experience for elderly users in care facilities. It integrates QR-based health data access, multilingual voice input, LLM-based natural language understanding, and menu filtering logic to recommend safe and personalized dishes.
+
+### 🧠 Step-by-Step Process
+
+**Step 1: Scan QR Code**  
+Users begin by scanning their personal QR code using a tablet or terminal. The QR contains their profile, including health conditions, allergies, and a 7-day meal history.
+
+**Step 2: Speak Desired Meal**  
+The user says what they would like to eat using natural spoken language. The system supports multiple languages and dialects.
+
+**Step 3: Agent Reasoning (LLM + Rules)**  
+The Agent analyzes the request using:
+- Natural language understanding via LLM
+- Health-based filtering logic
+- Preference and emotion inference  
+It then **accepts**, **modifies**, or **rejects** the request.
+
+**Step 4: Menu Display with Tags**  
+The system displays the filtered menu with allergy labels, nutritional info, and clear explanations, so users can understand what's safe and suitable.
+
+**Step 5: Automatic Rejection (if needed)**  
+If a user attempts to choose a dish that contradicts their current health status, the system automatically blocks it and recommends an alternative.
+
+**Step 6: Update QR History**  
+After ordering, the system updates the QR code with the selected meal and health impact. This history helps refine future recommendations and ensure balanced nutrition.
+
+This six-step cycle enables personalized, safe, and efficient meal selection for seniors, while reducing the burden on care staff.
+
+<img width="1744" height="989" alt="image" src="https://github.com/user-attachments/assets/0539065d-1f8f-4497-8d03-1ee0af676441" />
 
 
 
