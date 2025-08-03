@@ -58,6 +58,8 @@ This project is organized by an interdisciplinary team of doctoral and master's 
 - **Haruki Maruyama** – In charge of prompt engineering and market research. Optimizes dialogue flow in Japanese and ensures the system aligns with user needs and social context.  
   *The University of Tokyo*
 
+- **Taketomi Ryuichi** – Responsible for comprehensive system testing and quality assurance, ensuring robustness and reliability across various usage scenarios.  
+  *Kwansei Gakuin University*
 
 ### 🧠 Step-by-Step Process
 
