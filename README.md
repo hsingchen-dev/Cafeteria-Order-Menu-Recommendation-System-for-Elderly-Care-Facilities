@@ -77,7 +77,9 @@ This six-step cycle enables personalized, safe, and efficient meal selection for
 <img width="1739" height="991" alt="image" src="https://github.com/user-attachments/assets/02593728-12fe-475d-b815-a2571aa7636c" />
 <img width="1742" height="992" alt="image" src="https://github.com/user-attachments/assets/03de1cf5-5167-4ba3-a8df-ca5a319b0c9f" />
 
+## Demo Video
 
-
+The following demo video showcases the **first-generation prototype** of our AI-powered meal ordering system. This version is designed for use in **general restaurants**, enabling users to interact with the menu via natural spoken language.
+https://www.youtube.com/shorts/mqymFhW0tDY
 
 
