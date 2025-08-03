@@ -20,3 +20,4 @@
 - 過去の注文履歴と好みに基づく継続的学習・最適化
 
 本システムは、高齢者が自分に適した食事を選びやすくなるだけでなく、介護スタッフの業務負担を軽減し、持続可能で包摂的な食事支援環境を実現することを目的としています。
+****<img width="1742" height="995" alt="image" src="https://github.com/user-attachments/assets/f8df8a6c-6cbb-4e62-ae93-2a1a56be2fcc" />
