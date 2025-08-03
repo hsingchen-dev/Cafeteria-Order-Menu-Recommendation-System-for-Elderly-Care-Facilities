@@ -72,6 +72,10 @@ After ordering, the system updates the QR code with the selected meal and health
 This six-step cycle enables personalized, safe, and efficient meal selection for seniors, while reducing the burden on care staff.
 
 <img width="1744" height="989" alt="image" src="https://github.com/user-attachments/assets/0539065d-1f8f-4497-8d03-1ee0af676441" />
+<img width="1741" height="993" alt="image" src="https://github.com/user-attachments/assets/473651a2-9789-4767-94d3-3a6d72f520aa" />
+<img width="1741" height="993" alt="image" src="https://github.com/user-attachments/assets/e2a122a4-2511-4fff-8f8c-4fab994ba4f8" />
+<img width="1739" height="991" alt="image" src="https://github.com/user-attachments/assets/02593728-12fe-475d-b815-a2571aa7636c" />
+<img width="1742" height="992" alt="image" src="https://github.com/user-attachments/assets/03de1cf5-5167-4ba3-a8df-ca5a319b0c9f" />
 
 
 
